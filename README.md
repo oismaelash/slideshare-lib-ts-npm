@@ -21,7 +21,7 @@ yarn add slideshare-ash
 ```
 
 ## Sample
-- https://github.com/ismaelash/slideshare-ash-lib-sample
+- https://github.com/oismaelash/slideshare-ash-lib-sample
 
 ```js
 const Slideshare = require("slideshare-ash");
