@@ -1,6 +1,6 @@
 {
   "name": "slideshare-ash",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "main": "dist/index.js",
   "author": "Ismael Ash <contato@ismaelnascimento.com>",
@@ -43,10 +43,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ismaelash/slideshare-lib-ts-npm.git"
+    "url": "git+https://github.com/oismaelash/slideshare-lib-ts-npm.git"
   },
   "bugs": {
-    "url": "https://github.com/ismaelash/slideshare-lib-ts-npm/issues"
+    "url": "https://github.com/oismaelash/slideshare-lib-ts-npm/issues"
   },
-  "homepage": "https://github.com/ismaelash/slideshare-lib-ts-npm#readme"
+  "homepage": "https://github.com/oismaelash/slideshare-lib-ts-npm#readme"
 }
